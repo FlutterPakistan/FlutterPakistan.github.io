@@ -647,9 +647,9 @@ URL:        http://cryptic.modeltheme.com/
     #mt-nav-burger {
         display: none;
     }
-    .logo img, .navbar-header .logo img {
+    /* .logo img, .navbar-header .logo img {
         max-width: 180px;
-    }
+    } */
     header.header5 #navbar .menu .menu-item {
         text-align: left;
     }

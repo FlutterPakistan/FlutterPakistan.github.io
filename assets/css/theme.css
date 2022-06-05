@@ -20,7 +20,7 @@
     position: absolute;
     height: 100%;
     width: 4px;
-    background:  #42E8DF;
+    background:  #cd0f58;
     left: 50%;
     top: 20px;
     transform: translateX(-50%);
@@ -35,7 +35,7 @@
     justify-content: flex-end;
   }
   .our-roadmap-inner-wrapper .row section{
-    background: #42E8DF;
+    background: #cd0f58;
     border-radius: 5px;
     width: calc(50% - 40px);
     padding: 20px;
@@ -66,7 +66,7 @@
     text-align: center;
     line-height: 40px;
     border-radius: 50%;
-    color: #42E8DF;
+    color: #cd0f58;
     font-size: 17px;
     box-shadow: 0 0 0 4px #fff, inset 0 2px 0 rgba(0,0,0,0.08), 0 3px 0 4px rgba(0,0,0,0.05);
   }

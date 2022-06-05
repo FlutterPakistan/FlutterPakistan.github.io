@@ -23,31 +23,31 @@ p{
 /*---------------------------------------------*/
 /*--- 2. COLORS ---*/
 /*---------------------------------------------*/
-/*DEFAULT COLOR: #171055 */
+/* DEFAULT COLOR: #000000 */
 
 .transparent-nav,
 .is_header_semitransparent .navbar-default.transparent-nav,
 #modeltheme-main-head.navbar-default.transparent-nav {
-    background: rgba(23,16,85,0.9);
+    background: rgba(0,0,0,0.8);
 }
 #navbar .menu .to_whitepaper.menu-item a {
-    background: #171055;
+    background: #000000;
 }
 body.is_header_semitransparent #navbar .menu > .menu-item > a:hover {
-    color: #3653f5;
+    color: #000000;
 }
 .timelinehorizontal .arrows .arrow__next,
 .timelinehorizontal .arrows .arrow__prev {
-    color: #6cd087;
+    color: #cd0f58;
 } 
 .page-fill {
-    background-color: #171055;
+    background-color: #000000;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .cryptic_one_page.data_background {
-    background-color: #171055;
+    background-color: #000000;
 }
 .decentralized-total-contribution,
 .timelinehorizontal ol li div,
@@ -55,20 +55,20 @@ body.is_header_semitransparent #navbar .menu > .menu-item > a:hover {
 .timelinehorizontal ol li::after,
 .footer-div-parent,
 footer .footer {
-    background-color: #2735b5 !important;
+    background-color: #180c44 !important;
 }
 .cryptic-footer-one-page a {
-    color: #6cd087; 
+    color: #cd0f58; 
 }
 .cryptic-footer-one-page a:hover {
-    color: #a3d1ae; 
+    color: #cd0f58; 
 }
 .border-right {
-    border-right: 1px solid #3d4abd;
+    border-right: 1px solid #000000;
 }
 .timelinehorizontal .arrows {
     margin-top: 30px;
 }
 .decentralized-svg-version .c-sign-up-form-input input {
-    background: rgba(39, 53, 181, 0.9) !important;
+    background: #000000 !important;
 }
